@@ -106,7 +106,13 @@ def handle_tasks(headers):
         "5dc39d6e-d7fa-4a72-a8e1-64abf9e4f033",
         "0eb0b5c5-8460-47fb-a11a-61c80957e20c",
         "8bb15a6a-abf3-4152-8f93-c52016e1109a",
-        "4a590eaf-cfc1-49fb-8799-9dac5a6a4b90"
+        "4a590eaf-cfc1-49fb-8799-9dac5a6a4b90",
+        "819546da-8d87-45f3-83ef-e9b6be068e1b",
+        "72b40568-62f6-467e-99f2-a59a8a03a57b",
+        "4eca801d-20af-4cbc-8b8f-e75430ad5502",
+        "c9ab6deb-52d2-4343-a4c1-f149fb85b085",
+        "734e255e-a50d-460c-a832-6185f4cd7975",
+        "22ad0c1c-ba3e-49fa-a569-a6358f98bf30"
     ]
     for t_id in task_ids:
         get_task(t_id, headers)
